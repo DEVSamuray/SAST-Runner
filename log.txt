@@ -1,1 +1,2 @@
 0368. 🚀 perf: lazy-load components
+0823. ✨ feat: add user authentication
