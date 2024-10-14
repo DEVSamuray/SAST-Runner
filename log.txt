@@ -13,3 +13,4 @@
 0146. 🎨 style: apply consistent indentation
 0371. ✅ test: add integration test for /submit endpoint
 0545. 🎨 style: standardize quote style
+0221. ✨ feat: add user authentication
