@@ -22,3 +22,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0993. ✨ feat: implement quiz timer feature
 0924. ✅ test: mock database connection in test suite
+0744. 🔧 refactor: remove redundant code blocks
