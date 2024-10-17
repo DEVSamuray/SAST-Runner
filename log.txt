@@ -21,3 +21,4 @@
 0149. ✨ feat: add export to CSV option
 0603. 🐛 fix: fix broken CSS in mobile view
 0993. ✨ feat: implement quiz timer feature
+0924. ✅ test: mock database connection in test suite
