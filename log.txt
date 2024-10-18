@@ -24,3 +24,4 @@
 0924. ✅ test: mock database connection in test suite
 0744. 🔧 refactor: remove redundant code blocks
 0500. ✅ test: add integration test for /submit endpoint
+0626. 🎨 style: standardize quote style
