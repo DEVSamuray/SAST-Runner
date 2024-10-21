@@ -29,3 +29,4 @@
 0991. ♻️ chore: clean up unused files
 0308. 🚀 perf: reduce image load time
 0139. 📚 docs: document token refresh logic
+0553. 🐛 fix: correct typo in registration form
