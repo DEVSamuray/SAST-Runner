@@ -47,3 +47,4 @@
 0795. 📚 docs: update README with setup steps
 0112. ✨ feat: enable dark mode toggle
 0338. ♻️ chore: add GitHub actions badge
+0466. 🚀 perf: optimize database query for quiz results
