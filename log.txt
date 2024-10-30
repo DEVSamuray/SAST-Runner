@@ -55,3 +55,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0613. 🐛 fix: prevent crash on empty input
 0499. 🎨 style: reformat files with black
+0463. 🚀 perf: reduce image load time
