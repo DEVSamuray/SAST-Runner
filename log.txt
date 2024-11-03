@@ -65,3 +65,4 @@
 0714. 📚 docs: improve code comments in utils
 0664. ✅ test: add unit test for quiz service
 0436. ✅ test: add integration test for /submit endpoint
+0975. 🎨 style: apply consistent indentation
