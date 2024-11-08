@@ -74,3 +74,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0460. 📚 docs: write FAQ section
 0603. 🐛 fix: fix broken CSS in mobile view
+0421. 🔧 refactor: split large controller into smaller functions
