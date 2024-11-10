@@ -84,3 +84,4 @@
 0618. ✨ feat: support email verification
 0933. 📚 docs: clarify environment setup
 0065. ✅ test: add integration test for /submit endpoint
+0658. 🎨 style: rename variables for clarity
