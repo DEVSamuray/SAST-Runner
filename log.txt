@@ -82,3 +82,4 @@
 0042. 📚 docs: document token refresh logic
 0678. ✨ feat: add user authentication
 0618. ✨ feat: support email verification
+0933. 📚 docs: clarify environment setup
