@@ -80,3 +80,4 @@
 0521. 🎨 style: standardize quote style
 0767. 🔧 refactor: remove redundant code blocks
 0042. 📚 docs: document token refresh logic
+0678. ✨ feat: add user authentication
