@@ -86,3 +86,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0658. 🎨 style: rename variables for clarity
 0070. ✨ feat: implement quiz timer feature
+0820. 📚 docs: add API usage examples
