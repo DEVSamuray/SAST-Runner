@@ -89,3 +89,4 @@
 0820. 📚 docs: add API usage examples
 0061. ✨ feat: create admin dashboard
 0037. 🐛 fix: correct typo in registration form
+0300. ✨ feat: add export to CSV option
