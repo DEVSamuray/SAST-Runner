@@ -92,3 +92,4 @@
 0300. ✨ feat: add export to CSV option
 0876. ♻️ chore: rename env.example
 0188. 🎨 style: apply consistent indentation
+0224. 🐛 fix: fix broken CSS in mobile view
