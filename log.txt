@@ -101,3 +101,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0526. ✨ feat: add user authentication
 0058. ♻️ chore: add GitHub actions badge
+0315. ✅ test: add integration test for /submit endpoint
