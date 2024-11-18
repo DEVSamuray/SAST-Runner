@@ -100,3 +100,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0774. 🔧 refactor: refactor quiz grading logic
 0526. ✨ feat: add user authentication
+0058. ♻️ chore: add GitHub actions badge
