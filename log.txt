@@ -110,3 +110,4 @@
 0406. ✨ feat: add export to CSV option
 0790. 📚 docs: write FAQ section
 0628. ♻️ chore: add GitHub actions badge
+0607. 🐛 fix: prevent crash on empty input
