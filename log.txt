@@ -143,3 +143,4 @@
 0971. 🎨 style: standardize quote style
 0445. 📚 docs: improve code comments in utils
 0337. 📚 docs: document token refresh logic
+0463. 🚀 perf: reduce image load time
