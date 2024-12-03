@@ -146,3 +146,4 @@
 0463. 🚀 perf: reduce image load time
 0096. 🐛 fix: prevent crash on empty input
 0224. 🐛 fix: fix broken CSS in mobile view
+0729. 🔧 refactor: refactor quiz grading logic
