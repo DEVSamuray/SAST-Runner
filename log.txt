@@ -145,3 +145,4 @@
 0337. 📚 docs: document token refresh logic
 0463. 🚀 perf: reduce image load time
 0096. 🐛 fix: prevent crash on empty input
+0224. 🐛 fix: fix broken CSS in mobile view
